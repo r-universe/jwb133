@@ -1,10 +1,10 @@
 [
   {
-    "package": "smcfcs",
+    "package": "InformativeCensoring",
     "oncran": true
   },
   {
-    "package": "InformativeCensoring",
+    "package": "smcfcs",
     "oncran": true
   }
 ]
