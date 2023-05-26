@@ -3,6 +3,11 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "gFormulaMI"]
+	path = gFormulaMI
+	url = https://github.com/jwb133/gformulami
+	shallow = true
+	registered = true
 [submodule "InformativeCensoring"]
 	path = InformativeCensoring
 	url = https://github.com/jwb133/informativecensoring
