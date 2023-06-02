@@ -3,6 +3,11 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "bootImpute"]
+	path = bootImpute
+	url = https://github.com/jwb133/bootimpute
+	shallow = true
+	registered = true
 [submodule "gFormulaMI"]
 	path = gFormulaMI
 	url = https://github.com/jwb133/gformulami
