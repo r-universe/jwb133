@@ -18,6 +18,11 @@
 	url = https://github.com/jwb133/informativecensoring
 	shallow = true
 	registered = true
+[submodule "mlmi"]
+	path = mlmi
+	url = https://github.com/jwb133/mlmi
+	shallow = true
+	registered = true
 [submodule "smcfcs"]
 	path = smcfcs
 	url = https://github.com/jwb133/smcfcs
