@@ -2,15 +2,15 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
+[submodule "InformativeCensoring"]
+	path = InformativeCensoring
+	url = https://github.com/jwb133/informativecensoring
 [submodule "bootImpute"]
 	path = bootImpute
 	url = https://github.com/jwb133/bootimpute
 [submodule "gFormulaMI"]
 	path = gFormulaMI
 	url = https://github.com/jwb133/gformulami
-[submodule "InformativeCensoring"]
-	path = InformativeCensoring
-	url = https://github.com/jwb133/informativecensoring
 [submodule "mlmi"]
 	path = mlmi
 	url = https://github.com/jwb133/mlmi
