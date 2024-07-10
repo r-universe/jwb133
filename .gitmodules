@@ -8,6 +8,9 @@
 [submodule "bootImpute"]
 	path = bootImpute
 	url = https://github.com/jwb133/bootimpute
+[submodule "dejaVu"]
+	path = dejaVu
+	url = https://github.com/jwb133/dejavu
 [submodule "gFormulaMI"]
 	path = gFormulaMI
 	url = https://github.com/jwb133/gformulami
